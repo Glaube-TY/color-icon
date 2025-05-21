@@ -1,16 +1,16 @@
 {
-  "name": "icon-sample",
-  "author": "Vanessa",
-  "url": "https://github.com/siyuan-note/icon-sample",
-  "version": "0.0.3",
+  "name": "color-icon",
+  "author": "Glaube-TY",
+  "url": "https://github.com/Glaube-TY/color-icon",
+  "version": "0.0.1",
   "minAppVersion": "2.8.8",
   "displayName": {
-    "default": "Icon Sample",
-    "zh_CN": "图标示例"
+    "default": "Color Icon",
+    "zh_CN": "彩色图标"
   },
   "description": {
-    "default": "This is a icon sample",
-    "zh_CN": "这是一个图标示例"
+    "default": "This is a color icon.",
+    "zh_CN": "这是一个彩色图标库。"
   },
   "readme": {
     "default": "README.md",
@@ -21,10 +21,10 @@
     "patreon": "",
     "github": "",
     "custom": [
-      "https://ld246.com/sponsor"
+      "https://ttl8ygt82u.feishu.cn/wiki/X7bDwlwZ3ih3y6kt2wWcKAwsnJf?from=from_copylink"
     ]
   },
   "keywords": [
-    "sample", "示例"
+    "color", "彩色"
   ]
 }
