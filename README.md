@@ -1,4 +1,4 @@
-[中文](https://github.com/siyuan-note/icon-sample/blob/main/README_zh_CN.md)
+[中文](https://github.com/Glaube-TY/color-icon/blob/main/README_zh_CN.md) | English
 
 Icon Data Source: [阿里巴巴矢量图标库](https://www.iconfont.cn/)
 
