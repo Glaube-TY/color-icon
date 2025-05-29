@@ -2,7 +2,7 @@
 
 Icon Data Source: [阿里巴巴矢量图标库](https://www.iconfont.cn/)
 
-### 注意
+### Notice!
 
 Using this icon library under certain themes will conflict.
 
