@@ -10,6 +10,8 @@ QYL theme has been adapted to this icon library.
 
 ### Change Log
 
+- 2026-03-30 v0.0.4 Replace (iconBack, iconForward, iconTable) and update (iconCallout, iconInclude, iconGroups, iconGallery, iconBoard) part of the icons
+
 - 2025-06-21 v0.0.3 Replace iconContract and iconFocus icons
 
 - 2025-05-29 v0.0.2 Replace task list check box icon
